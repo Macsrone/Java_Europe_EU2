@@ -1,4 +1,4 @@
-package Arrays;
+package day25_arrays_part2;
 
 public class SameArray {
 
